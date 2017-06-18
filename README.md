@@ -1,2 +1,3 @@
 # 图片轮播（原生js）
-同样是之前的作品，照着教程做出来的，存档。
+
+codepen地址：https://codepen.io/jiajiayang/pen/bRgjmX
